@@ -23,7 +23,7 @@ Horiseon's website is designed to showcase the company's services and benefits t
 
 ## Usage
 
-To view the website, open the following link in your web browser.
+To navigate to the website, click in the "Link" below.
 
----LINK HERE--- 
+[Link](https://davidj92.github.io/Horiseon-YourDigitalSolution/)
 
